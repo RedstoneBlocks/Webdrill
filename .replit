@@ -1,0 +1,2 @@
+language = "html"
+run = "src/html/index.html"
